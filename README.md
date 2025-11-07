@@ -1,5 +1,5 @@
 # UI/UX development project
-
+instalar usando npm i --legacy-peer-deps
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aguapapa001-7074s-projects/v0-ui-ux-development-project)
