@@ -1,0 +1,1 @@
+PAra realizar la instalacion via npm install, recuerde incluir --legacy-peer-deps 
